@@ -5,5 +5,6 @@ class Rahul
 	{
 		(new Test()).printA();
 		(new Test2()).printB();
+		Ssytem.out.println('HELLO WORLD');
 	}
 }
